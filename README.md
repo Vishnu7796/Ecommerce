@@ -1,3 +1,5 @@
+## This is a simple ecommerce app using angular as frontend and third party api's as backend
+
 # Ecommerce
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
